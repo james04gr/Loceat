@@ -1,0 +1,3207 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5ef85d6ad2bf83199cf50b8c"
+  },
+  "response": {
+    "venues": [
+      {
+        "id": "4d2c14a8068e8cfab5e5e84c",
+        "name": "Υπογραφή Στεργίου",
+        "contact": {},
+        "location": {
+          "address": "Ελευθερίου Βενιζέλου 22",
+          "lat": 38.066289393150875,
+          "lng": 23.76030503109179,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.066289393150875,
+              "lng": 23.76030503109179
+            }
+          ],
+          "distance": 1541,
+          "postalCode": "144 52",
+          "cc": "GR",
+          "city": "Metamorfosi",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Ελευθερίου Βενιζέλου 22",
+            "144 52 Metamorfosi, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16a941735",
+            "name": "Bakery",
+            "pluralName": "Bakeries",
+            "shortName": "Bakery",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/bakery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 1,
+          "summary": "One other person is here",
+          "groups": [
+            {
+              "type": "others",
+              "name": "Other people here",
+              "count": 1,
+              "items": []
+            }
+          ]
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "543d6db6498ea549c8ed8cee",
+        "name": "Big Spoon",
+        "contact": {},
+        "location": {
+          "address": "Αγίου Ιωάννου 65",
+          "lat": 38.00700893994368,
+          "lng": 23.827146429028446,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.00700893994368,
+              "lng": 23.827146429028446
+            }
+          ],
+          "distance": 7339,
+          "postalCode": "153 42",
+          "cc": "GR",
+          "city": "Agía Paraskeví",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Αγίου Ιωάννου 65",
+            "153 42 Agía Paraskeví, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d116941735",
+            "name": "Bar",
+            "pluralName": "Bars",
+            "shortName": "Bar",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5c1ea4c92db4a9002c49a1f1",
+        "name": "Lot51",
+        "contact": {},
+        "location": {
+          "address": "Παπαδιαμαντοπούλου 24Β",
+          "crossStreet": "Νυμφαίου",
+          "lat": 37.97887634753193,
+          "lng": 23.75601348499129,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.97887634753193,
+              "lng": 23.75601348499129
+            }
+          ],
+          "distance": 8435,
+          "postalCode": "115 28",
+          "cc": "GR",
+          "neighborhood": "Ιλίσια",
+          "city": "Athens",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Παπαδιαμαντοπούλου 24Β (Νυμφαίου)",
+            "115 28 Athens, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5c61c340610f04002ca2ad1e",
+        "name": "Gardenista",
+        "contact": {},
+        "location": {
+          "address": "Παπανικολή 18",
+          "lat": 38.02234600061466,
+          "lng": 23.791930925711828,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.02234600061466,
+              "lng": 23.791930925711828
+            }
+          ],
+          "distance": 4082,
+          "postalCode": "152 32",
+          "cc": "GR",
+          "city": "Chalandri",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Παπανικολή 18",
+            "152 32 Chalandri, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "52e81612bcbc57f1066b79f1",
+            "name": "Bistro",
+            "pluralName": "Bistros",
+            "shortName": "Bistro",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "53c4e77c498e93f3d27f1238",
+        "name": "ΜΠΕΛ ΡΕΫ",
+        "contact": {},
+        "location": {
+          "address": "Φαλήρου 88",
+          "crossStreet": "Γεωργίου Ολυμπίου",
+          "lat": 37.96245177492908,
+          "lng": 23.722703078727303,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.96245177492908,
+              "lng": 23.722703078727303
+            }
+          ],
+          "distance": 10954,
+          "postalCode": "117 41",
+          "cc": "GR",
+          "city": "Athens",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Φαλήρου 88 (Γεωργίου Ολυμπίου)",
+            "117 41 Athens, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4bdb55553904a59354de499e",
+        "name": "Cruiser Exclusive Bar",
+        "contact": {},
+        "location": {
+          "address": "Κτίριο 6",
+          "crossStreet": "Μαρίνα Φλοίσβου",
+          "lat": 37.9286252104286,
+          "lng": 23.684507494584693,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.9286252104286,
+              "lng": 23.684507494584693
+            }
+          ],
+          "distance": 15782,
+          "postalCode": "175 64",
+          "cc": "GR",
+          "city": "Palaio Faliro",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Κτίριο 6 (Μαρίνα Φλοίσβου)",
+            "175 64 Palaio Faliro, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d116941735",
+            "name": "Bar",
+            "pluralName": "Bars",
+            "shortName": "Bar",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4b0ec21bf964a520a25a23e3",
+        "name": "Piu Verde",
+        "contact": {},
+        "location": {
+          "address": "Άλσος Παπάγου",
+          "crossStreet": "8ης Μεραρχίας",
+          "lat": 37.99349445218175,
+          "lng": 23.792798967330285,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.99349445218175,
+              "lng": 23.792798967330285
+            }
+          ],
+          "distance": 7067,
+          "postalCode": "156 69",
+          "cc": "GR",
+          "city": "Athens",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Άλσος Παπάγου (8ης Μεραρχίας)",
+            "156 69 Athens, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c4941735",
+            "name": "Restaurant",
+            "pluralName": "Restaurants",
+            "shortName": "Restaurant",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "venuePage": {
+          "id": "81923301"
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "514211f9e4b07c0408d1d7bd",
+        "name": "Alexandri Cafe",
+        "contact": {},
+        "location": {
+          "lat": 37.96051476897127,
+          "lng": 23.7484165218507,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.96051476897127,
+              "lng": 23.7484165218507
+            }
+          ],
+          "distance": 10556,
+          "cc": "GR",
+          "country": "Greece",
+          "formattedAddress": [
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "527e7e2a11d25a27b8e7b4d3",
+        "name": "Καφενείο \"Χάρης\"",
+        "contact": {},
+        "location": {
+          "address": "Π.Τσαλδάρη 64",
+          "lat": 37.95985960084588,
+          "lng": 23.748817313895053,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.95985960084588,
+              "lng": 23.748817313895053
+            }
+          ],
+          "distance": 10622,
+          "cc": "GR",
+          "country": "Greece",
+          "formattedAddress": [
+            "Π.Τσαλδάρη 64",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "53d6c1b0e4b02351e88a83e6",
+            "name": "Kafenio",
+            "pluralName": "Kafenia",
+            "shortName": "Kafenia",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5213b505498eb033d69c21dc",
+        "name": "Safe House",
+        "contact": {},
+        "location": {
+          "address": "Λεωφόρος Διονύσου",
+          "crossStreet": "Βακχών",
+          "lat": 38.10117241213441,
+          "lng": 23.88433334217481,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.10117241213441,
+              "lng": 23.88433334217481
+            }
+          ],
+          "distance": 11430,
+          "postalCode": "145 76",
+          "cc": "GR",
+          "city": "Diónysos",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Λεωφόρος Διονύσου (Βακχών)",
+            "145 76 Diónysos, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 1,
+          "summary": "One other person is here",
+          "groups": [
+            {
+              "type": "others",
+              "name": "Other people here",
+              "count": 1,
+              "items": []
+            }
+          ]
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "512f1b3e29a699e62c46b05d",
+        "name": "έξη",
+        "contact": {},
+        "location": {
+          "address": "Λεωφ. Σοφοκλή Βενιζέλου 88",
+          "crossStreet": "Πουσουλίδου",
+          "lat": 37.93109493183733,
+          "lng": 23.75402320918886,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.93109493183733,
+              "lng": 23.75402320918886
+            }
+          ],
+          "distance": 13742,
+          "postalCode": "163 41",
+          "cc": "GR",
+          "city": "Ilioúpoli",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Λεωφ. Σοφοκλή Βενιζέλου 88 (Πουσουλίδου)",
+            "163 41 Ilioúpoli, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16a941735",
+            "name": "Bakery",
+            "pluralName": "Bakeries",
+            "shortName": "Bakery",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/bakery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4f6a4568e4b0b8a882593b86",
+        "name": "Mind The Cup",
+        "contact": {},
+        "location": {
+          "address": "Αιμιλίου Βεάκη 29",
+          "lat": 38.01167129975028,
+          "lng": 23.69333215964869,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.01167129975028,
+              "lng": 23.69333215964869
+            }
+          ],
+          "distance": 8100,
+          "postalCode": "121 34",
+          "cc": "GR",
+          "city": "Peristeri",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Αιμιλίου Βεάκη 29",
+            "121 34 Peristeri, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "venuePage": {
+          "id": "33082582"
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "52b45b33498ec4eceb367aff",
+        "name": "Μπλε Παπαγάλος",
+        "contact": {},
+        "location": {
+          "address": "Λεωνίδου 31",
+          "crossStreet": "Γιατράκου",
+          "lat": 37.98277891705041,
+          "lng": 23.720052475926032,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.98277891705041,
+              "lng": 23.720052475926032
+            }
+          ],
+          "distance": 8995,
+          "postalCode": "104 36",
+          "cc": "GR",
+          "city": "Athens",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Λεωνίδου 31 (Γιατράκου)",
+            "104 36 Athens, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d116941735",
+            "name": "Bar",
+            "pluralName": "Bars",
+            "shortName": "Bar",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "venuePage": {
+          "id": "74127669"
+        },
+        "hereNow": {
+          "count": 1,
+          "summary": "One other person is here",
+          "groups": [
+            {
+              "type": "others",
+              "name": "Other people here",
+              "count": 1,
+              "items": []
+            }
+          ]
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "508d008f498edfd68573240a",
+        "name": "Qahwa QCB",
+        "contact": {},
+        "location": {
+          "address": "Μάρκου Μπότσαρη 1",
+          "lat": 37.9914773850529,
+          "lng": 23.677978660545048,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.9914773850529,
+              "lng": 23.677978660545048
+            }
+          ],
+          "distance": 10556,
+          "postalCode": "122 43",
+          "cc": "GR",
+          "city": "Aigaleo",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Μάρκου Μπότσαρη 1",
+            "122 43 Aigaleo, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "venuePage": {
+          "id": "106941704"
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5ed365b4507e020008b82bda",
+        "name": "Noah",
+        "contact": {},
+        "location": {
+          "address": "Ευζώνων Πάρκο Ελευθερίας",
+          "lat": 37.980293,
+          "lng": 23.751806,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.980293,
+              "lng": 23.751806
+            }
+          ],
+          "distance": 8336,
+          "postalCode": "115 21",
+          "cc": "GR",
+          "city": "Athens",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Ευζώνων Πάρκο Ελευθερίας",
+            "115 21 Athens, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c4941735",
+            "name": "Restaurant",
+            "pluralName": "Restaurants",
+            "shortName": "Restaurant",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 2,
+          "summary": "2 people are here",
+          "groups": [
+            {
+              "type": "others",
+              "name": "Other people here",
+              "count": 2,
+              "items": []
+            }
+          ]
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4e95facf29c2e08636cfd4ba",
+        "name": "Cremona",
+        "contact": {},
+        "location": {
+          "lat": 37.9605362752746,
+          "lng": 23.74840184986278,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.9605362752746,
+              "lng": 23.74840184986278
+            }
+          ],
+          "distance": 10554,
+          "cc": "GR",
+          "city": "Athens",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Athens, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1d0941735",
+            "name": "Dessert Shop",
+            "pluralName": "Dessert Shops",
+            "shortName": "Desserts",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/dessert_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4b4326e5f964a52098dc25e3",
+        "name": "Παλιά Αγορά",
+        "contact": {},
+        "location": {
+          "address": "Κεχαγιά 26",
+          "crossStreet": "Μάρκου Ρενιέρη",
+          "lat": 38.023494107724396,
+          "lng": 23.786401163543232,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.023494107724396,
+              "lng": 23.786401163543232
+            }
+          ],
+          "distance": 3744,
+          "postalCode": "152 37",
+          "cc": "GR",
+          "city": "Filothéi",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Κεχαγιά 26 (Μάρκου Ρενιέρη)",
+            "152 37 Filothéi, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4f05ba0499116f05b5db84a5",
+        "name": "Sweet Habit",
+        "contact": {},
+        "location": {
+          "address": "Ρόδων 1",
+          "crossStreet": "Ελαιών",
+          "lat": 38.091652799134295,
+          "lng": 23.79612025384069,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.091652799134295,
+              "lng": 23.79612025384069
+            }
+          ],
+          "distance": 4839,
+          "postalCode": "145 64",
+          "cc": "GR",
+          "city": "Kifissia",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Ρόδων 1 (Ελαιών)",
+            "145 64 Kifissia, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4b0b8e53f964a520413223e3",
+        "name": "Starbucks",
+        "contact": {},
+        "location": {
+          "address": "Ιλισίων 20",
+          "lat": 38.092098323329104,
+          "lng": 23.797181356675615,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.092098323329104,
+              "lng": 23.797181356675615
+            }
+          ],
+          "distance": 4929,
+          "postalCode": "145 64",
+          "cc": "GR",
+          "city": "Kifissia",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Ιλισίων 20",
+            "145 64 Kifissia, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "510fb7c9e4b09bd907be2b99",
+        "name": "Bootleg Athens",
+        "contact": {},
+        "location": {
+          "address": "8, FANEROMENIS",
+          "lat": 38.004096139482726,
+          "lng": 23.796561321023276,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.004096139482726,
+              "lng": 23.796561321023276
+            }
+          ],
+          "distance": 6079,
+          "postalCode": "155 61",
+          "cc": "GR",
+          "neighborhood": "Holargos",
+          "city": "Holargos",
+          "country": "Greece",
+          "formattedAddress": [
+            "8, FANEROMENIS",
+            "155 61 Holargos",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d11e941735",
+            "name": "Cocktail Bar",
+            "pluralName": "Cocktail Bars",
+            "shortName": "Cocktail",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/cocktails_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "venuePage": {
+          "id": "159183406"
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "55ab6d26498e8f7557b27a95",
+        "name": "Waffle House",
+        "contact": {},
+        "location": {
+          "address": "Αγίου Γεωργίου 1",
+          "crossStreet": "Λεωφ. Πεντέλης",
+          "lat": 38.052682990398914,
+          "lng": 23.85478410215424,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.052682990398914,
+              "lng": 23.85478410215424
+            }
+          ],
+          "distance": 7568,
+          "postalCode": "152 36",
+          "cc": "GR",
+          "city": "Penteli",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Αγίου Γεωργίου 1 (Λεωφ. Πεντέλης)",
+            "152 36 Penteli, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c9941735",
+            "name": "Ice Cream Shop",
+            "pluralName": "Ice Cream Shops",
+            "shortName": "Ice Cream",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/icecream_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5a7d540acf72a025c13824b8",
+        "name": "Chris Cafe",
+        "contact": {},
+        "location": {
+          "address": "111 Εμπεδοκλέους",
+          "lat": 37.960585964427324,
+          "lng": 23.74840195677175,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.960585964427324,
+              "lng": 23.74840195677175
+            }
+          ],
+          "distance": 10548,
+          "postalCode": "162 32",
+          "cc": "GR",
+          "city": "Βύρωνος",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "111 Εμπεδοκλέους",
+            "162 32 Βύρωνος, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4b3f6d60f964a520b7a625e3",
+        "name": "TGI Fridays",
+        "contact": {},
+        "location": {
+          "address": "Κολοκοτρώνη 35",
+          "lat": 38.07465047940684,
+          "lng": 23.8191541640741,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.07465047940684,
+              "lng": 23.8191541640741
+            }
+          ],
+          "distance": 5001,
+          "postalCode": "145 65",
+          "cc": "GR",
+          "city": "Kifissia",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Κολοκοτρώνη 35",
+            "145 65 Kifissia, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14e941735",
+            "name": "American Restaurant",
+            "pluralName": "American Restaurants",
+            "shortName": "American",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4b2cfd53f964a520e4cb24e3",
+        "name": "Best Friends",
+        "contact": {},
+        "location": {
+          "address": "Πλατεία Καραμανλή 1",
+          "lat": 38.08465019781826,
+          "lng": 23.83153492044695,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.08465019781826,
+              "lng": 23.83153492044695
+            }
+          ],
+          "distance": 6494,
+          "postalCode": "145 63",
+          "cc": "GR",
+          "city": "Kifissia",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Πλατεία Καραμανλή 1",
+            "145 63 Kifissia, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 1,
+          "summary": "One other person is here",
+          "groups": [
+            {
+              "type": "others",
+              "name": "Other people here",
+              "count": 1,
+              "items": []
+            }
+          ]
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "59b1befb4ce06668d0101364",
+        "name": "Blends",
+        "contact": {},
+        "location": {
+          "address": "Φοίβης 19",
+          "lat": 37.86027654103766,
+          "lng": 23.756266862723567,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.86027654103766,
+              "lng": 23.756266862723567
+            }
+          ],
+          "distance": 21593,
+          "postalCode": "166 74",
+          "cc": "GR",
+          "neighborhood": "Glyfada",
+          "city": "Athens",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Φοίβης 19",
+            "166 74 Athens, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c4941735",
+            "name": "Restaurant",
+            "pluralName": "Restaurants",
+            "shortName": "Restaurant",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "venuePage": {
+          "id": "535245983"
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "55608a36498e3ab856a903bc",
+        "name": "Peñarrubia",
+        "contact": {},
+        "location": {
+          "address": "Λεωφ. Ποσειδώνος 10",
+          "lat": 37.90965938551287,
+          "lng": 23.711000932827133,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.90965938551287,
+              "lng": 23.711000932827133
+            }
+          ],
+          "distance": 16842,
+          "postalCode": "174 55",
+          "cc": "GR",
+          "city": "Alimos",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Λεωφ. Ποσειδώνος 10",
+            "174 55 Alimos, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "venuePage": {
+          "id": "132386812"
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4bbb69d21261d13a4aa5eb98",
+        "name": "Coupepe",
+        "contact": {},
+        "location": {
+          "address": "Πλατεία Ηρώων Πολυτεχνίου 31",
+          "lat": 38.05904558515693,
+          "lng": 23.857962968405264,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.05904558515693,
+              "lng": 23.857962968405264
+            }
+          ],
+          "distance": 7864,
+          "postalCode": "152 36",
+          "cc": "GR",
+          "neighborhood": "Νέα Πεντέλη",
+          "city": "Nea Penteli",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Πλατεία Ηρώων Πολυτεχνίου 31",
+            "152 36 Nea Penteli, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ca941735",
+            "name": "Pizza Place",
+            "pluralName": "Pizza Places",
+            "shortName": "Pizza",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/pizza_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5091329be4b01ba25ea45649",
+        "name": "KAFEINA",
+        "contact": {},
+        "location": {
+          "address": "Λεωφ. Κηφισίας 359",
+          "lat": 38.085854794720724,
+          "lng": 23.816430362016405,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.085854794720724,
+              "lng": 23.816430362016405
+            }
+          ],
+          "distance": 5498,
+          "postalCode": "145 64",
+          "cc": "GR",
+          "city": "Kifissia",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Λεωφ. Κηφισίας 359",
+            "145 64 Kifissia, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5c0c2b64bcbf7a002ca21ff1",
+        "name": "Frater & Soror",
+        "contact": {},
+        "location": {
+          "address": "Αμύντα 6",
+          "lat": 37.972019803977155,
+          "lng": 23.744545745182748,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.972019803977155,
+              "lng": 23.744545745182748
+            }
+          ],
+          "distance": 9365,
+          "postalCode": "116 35",
+          "cc": "GR",
+          "city": "Pangrati",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Αμύντα 6",
+            "116 35 Pangrati, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d11e941735",
+            "name": "Cocktail Bar",
+            "pluralName": "Cocktail Bars",
+            "shortName": "Cocktail",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/cocktails_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4cf1fbc6c9af6dcbdfa49d7f",
+        "name": "Ηπειρώτισσα",
+        "contact": {},
+        "location": {
+          "address": "Λεωφ. Βάρης-Κορωπίου 32",
+          "lat": 37.8334168913687,
+          "lng": 23.77671268219584,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.8334168913687,
+              "lng": 23.77671268219584
+            }
+          ],
+          "distance": 24567,
+          "postalCode": "166 73",
+          "cc": "GR",
+          "city": "Voula",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Λεωφ. Βάρης-Κορωπίου 32",
+            "166 73 Voula, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1f5941735",
+            "name": "Gourmet Shop",
+            "pluralName": "Gourmet Shops",
+            "shortName": "Gourmet",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_gourmet_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "562fe4dd498ec23804102768",
+        "name": "Kuko's The Bar",
+        "contact": {},
+        "location": {
+          "address": "Καλαμιώτου 4",
+          "crossStreet": "Καλαμιώτου",
+          "lat": 37.97667793391077,
+          "lng": 23.728875517845154,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.97667793391077,
+              "lng": 23.728875517845154
+            }
+          ],
+          "distance": 9283,
+          "postalCode": "105 63",
+          "cc": "GR",
+          "neighborhood": "Κεντρο",
+          "city": "Athens",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Καλαμιώτου 4 (Καλαμιώτου)",
+            "105 63 Athens, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d116941735",
+            "name": "Bar",
+            "pluralName": "Bars",
+            "shortName": "Bar",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "venuePage": {
+          "id": "355622453"
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4d3b22c634ee37041e997f9b",
+        "name": "TGI Fridays",
+        "contact": {},
+        "location": {
+          "address": "PierOne",
+          "crossStreet": "στη Μαρίνα Φλοίσβου",
+          "lat": 37.931088377790076,
+          "lng": 23.68530213797957,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.931088377790076,
+              "lng": 23.68530213797957
+            }
+          ],
+          "distance": 15507,
+          "postalCode": "175 10",
+          "cc": "GR",
+          "neighborhood": "Flisvos",
+          "city": "Palaio Faliro",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "PierOne (στη Μαρίνα Φλοίσβου)",
+            "175 10 Palaio Faliro, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14e941735",
+            "name": "American Restaurant",
+            "pluralName": "American Restaurants",
+            "shortName": "American",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "51b0d9ca498ede5795332b66",
+        "name": "Sixteen Bar",
+        "contact": {},
+        "location": {
+          "address": "Πλάτωνος 16",
+          "crossStreet": "Πεζόδρομος Χαλανδρίου",
+          "lat": 38.02113479741806,
+          "lng": 23.79998097375522,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.02113479741806,
+              "lng": 23.79998097375522
+            }
+          ],
+          "distance": 4586,
+          "postalCode": "152 34",
+          "cc": "GR",
+          "neighborhood": "Χαλάνδρι",
+          "city": "Chalandri",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Πλάτωνος 16 (Πεζόδρομος Χαλανδρίου)",
+            "152 34 Chalandri, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d116941735",
+            "name": "Bar",
+            "pluralName": "Bars",
+            "shortName": "Bar",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "53738674498e46db96919395",
+        "name": "Kudu Coffee Roasters",
+        "contact": {},
+        "location": {
+          "address": "25ης Μαρτίου 22",
+          "lat": 38.00503999437289,
+          "lng": 23.785297538036605,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.00503999437289,
+              "lng": 23.785297538036605
+            }
+          ],
+          "distance": 5648,
+          "postalCode": "154 51",
+          "cc": "GR",
+          "neighborhood": "Νέο Ψυχικό",
+          "city": "Neo Psychiko",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "25ης Μαρτίου 22",
+            "154 51 Neo Psychiko, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 2,
+          "summary": "2 people are here",
+          "groups": [
+            {
+              "type": "others",
+              "name": "Other people here",
+              "count": 2,
+              "items": []
+            }
+          ]
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5d14fbf2dbde110025847b45",
+        "name": "Το Λοκάλι",
+        "contact": {},
+        "location": {
+          "address": "Σαρρή 44",
+          "lat": 37.978743,
+          "lng": 23.72169,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.978743,
+              "lng": 23.72169
+            }
+          ],
+          "distance": 9329,
+          "postalCode": "105 53",
+          "cc": "GR",
+          "city": "Athens",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Σαρρή 44",
+            "105 53 Athens, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4f9152d7e4b0d5d7895570e7",
+        "name": "White Spoon",
+        "contact": {},
+        "location": {
+          "address": "Λεωφ. Μεσογείων 234",
+          "crossStreet": "Βεντούρη 1",
+          "lat": 38.00420406316439,
+          "lng": 23.794087836758006,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.00420406316439,
+              "lng": 23.794087836758006
+            }
+          ],
+          "distance": 5983,
+          "postalCode": "155 61",
+          "cc": "GR",
+          "neighborhood": "Χολαργός",
+          "city": "Cholargos",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Λεωφ. Μεσογείων 234 (Βεντούρη 1)",
+            "155 61 Cholargos, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4dbfe44543a147cd6ecadab0",
+        "name": "Rumors",
+        "contact": {},
+        "location": {
+          "address": "Λεωφ. Ποσειδώνος 17",
+          "lat": 37.810943611940175,
+          "lng": 23.782719983368192,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.810943611940175,
+              "lng": 23.782719983368192
+            }
+          ],
+          "distance": 27087,
+          "postalCode": "166 71",
+          "cc": "GR",
+          "city": "Vouliagmeni",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Λεωφ. Ποσειδώνος 17",
+            "166 71 Vouliagmeni, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4b7ffbf3f964a5209c4830e3",
+        "name": "Moorings",
+        "contact": {},
+        "location": {
+          "address": "Μαρίνα Βουλιαγμένης",
+          "lat": 37.8020759353402,
+          "lng": 23.77268626937167,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.8020759353402,
+              "lng": 23.77268626937167
+            }
+          ],
+          "distance": 28048,
+          "postalCode": "166 71",
+          "cc": "GR",
+          "city": "Vouliagmeni",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Μαρίνα Βουλιαγμένης",
+            "166 71 Vouliagmeni, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d11e941735",
+            "name": "Cocktail Bar",
+            "pluralName": "Cocktail Bars",
+            "shortName": "Cocktail",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/cocktails_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5707f372498e269d10be9468",
+        "name": "El Jiron",
+        "contact": {},
+        "location": {
+          "address": "Γλαύκου 14",
+          "lat": 38.00272947409719,
+          "lng": 23.77610113523631,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.00272947409719,
+              "lng": 23.77610113523631
+            }
+          ],
+          "distance": 5748,
+          "postalCode": "154 51",
+          "cc": "GR",
+          "city": "Neo Psychiko",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Γλαύκου 14",
+            "154 51 Neo Psychiko, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1be941735",
+            "name": "Latin American Restaurant",
+            "pluralName": "Latin American Restaurants",
+            "shortName": "Latin American",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/latinamerican_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "554fa0e3498e6aeeddd23871",
+        "name": "Ark",
+        "contact": {},
+        "location": {
+          "address": "Γρηγορίου Λαμπράκη 2",
+          "lat": 37.859591223981084,
+          "lng": 23.749769727983328,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.859591223981084,
+              "lng": 23.749769727983328
+            }
+          ],
+          "distance": 21705,
+          "postalCode": "166 74",
+          "cc": "GR",
+          "city": "Athens",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Γρηγορίου Λαμπράκη 2",
+            "166 74 Glyfada, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ce941735",
+            "name": "Seafood Restaurant",
+            "pluralName": "Seafood Restaurants",
+            "shortName": "Seafood",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/seafood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "584fa986c7ec6b042920726b",
+        "name": "Εξη",
+        "contact": {},
+        "location": {
+          "address": "Γρηγοριου Λαμπρακη 54",
+          "lat": 37.86858846198663,
+          "lng": 23.758038634027013,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.86858846198663,
+              "lng": 23.758038634027013
+            }
+          ],
+          "distance": 20662,
+          "cc": "GR",
+          "neighborhood": "Γλυφάδα",
+          "country": "Greece",
+          "formattedAddress": [
+            "Γρηγοριου Λαμπρακη 54",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16a941735",
+            "name": "Bakery",
+            "pluralName": "Bakeries",
+            "shortName": "Bakery",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/bakery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "50ae1b9be4b03c6b1cdb4eb9",
+        "name": "Bake",
+        "contact": {},
+        "location": {
+          "address": "Μυρτιδιωτίσσης 1",
+          "crossStreet": "Ιωνίας",
+          "lat": 37.913173484770866,
+          "lng": 23.730550884154237,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.913173484770866,
+              "lng": 23.730550884154237
+            }
+          ],
+          "distance": 16027,
+          "postalCode": "174 56",
+          "cc": "GR",
+          "city": "Alimos",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Μυρτιδιωτίσσης 1 (Ιωνίας)",
+            "174 56 Alimos, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16a941735",
+            "name": "Bakery",
+            "pluralName": "Bakeries",
+            "shortName": "Bakery",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/bakery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 1,
+          "summary": "One other person is here",
+          "groups": [
+            {
+              "type": "others",
+              "name": "Other people here",
+              "count": 1,
+              "items": []
+            }
+          ]
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4b2504b1f964a520536b24e3",
+        "name": "Waffle House",
+        "contact": {},
+        "location": {
+          "address": "Λεωφ. Ποσειδώνος 17",
+          "crossStreet": "Ορφέως",
+          "lat": 37.81152725371425,
+          "lng": 23.782709730747587,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.81152725371425,
+              "lng": 23.782709730747587
+            }
+          ],
+          "distance": 27022,
+          "postalCode": "166 71",
+          "cc": "GR",
+          "city": "Vouliagmeni",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Λεωφ. Ποσειδώνος 17 (Ορφέως)",
+            "166 71 Vouliagmeni, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c9941735",
+            "name": "Ice Cream Shop",
+            "pluralName": "Ice Cream Shops",
+            "shortName": "Ice Cream",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/icecream_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4e042383a8090c0936a01b88",
+        "name": "Πέτρινος Φούρνος",
+        "contact": {},
+        "location": {
+          "address": "χρυσοστομου σμυρνης",
+          "lat": 37.960537025184124,
+          "lng": 23.74839247352954,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.960537025184124,
+              "lng": 23.74839247352954
+            }
+          ],
+          "distance": 10554,
+          "cc": "GR",
+          "city": "Výronas",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "χρυσοστομου σμυρνης",
+            "Výronas, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16a941735",
+            "name": "Bakery",
+            "pluralName": "Bakeries",
+            "shortName": "Bakery",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/bakery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "53303012498e3577d9ce90f9",
+        "name": "Nālu",
+        "contact": {},
+        "location": {
+          "address": "Ακτή Αλίμου",
+          "lat": 37.905629406946325,
+          "lng": 23.716515882631064,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.905629406946325,
+              "lng": 23.716515882631064
+            }
+          ],
+          "distance": 17135,
+          "postalCode": "174 55",
+          "cc": "GR",
+          "city": "Alimos",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Ακτή Αλίμου",
+            "174 55 Alimos, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "52e81612bcbc57f1066b7a0d",
+            "name": "Beach Bar",
+            "pluralName": "Beach Bars",
+            "shortName": "Beach Bar",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 1,
+          "summary": "One other person is here",
+          "groups": [
+            {
+              "type": "others",
+              "name": "Other people here",
+              "count": 1,
+              "items": []
+            }
+          ]
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "585a60b594c6900aee6b3ccd",
+        "name": "Carpo",
+        "contact": {},
+        "location": {
+          "address": "Γρηγορίου Λαμπράκη 20",
+          "lat": 37.8627906971493,
+          "lng": 23.753090118159914,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.8627906971493,
+              "lng": 23.753090118159914
+            }
+          ],
+          "distance": 21330,
+          "cc": "GR",
+          "city": "Glyfada",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Γρηγορίου Λαμπράκη 20",
+            "Glyfada, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1f5941735",
+            "name": "Gourmet Shop",
+            "pluralName": "Gourmet Shops",
+            "shortName": "Gourmet",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_gourmet_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 1,
+          "summary": "One other person is here",
+          "groups": [
+            {
+              "type": "others",
+              "name": "Other people here",
+              "count": 1,
+              "items": []
+            }
+          ]
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5607e217498e372288fd6f95",
+        "name": "Στάμου",
+        "contact": {},
+        "location": {
+          "address": "Λεωφ. Πεντέλης 139",
+          "lat": 38.03268248145186,
+          "lng": 23.820615390365344,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 38.03268248145186,
+              "lng": 23.820615390365344
+            }
+          ],
+          "distance": 5152,
+          "postalCode": "152 34",
+          "cc": "GR",
+          "city": "Chalandri",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Λεωφ. Πεντέλης 139",
+            "152 34 Chalandri, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c9941735",
+            "name": "Ice Cream Shop",
+            "pluralName": "Ice Cream Shops",
+            "shortName": "Ice Cream",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/icecream_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5b19bdfa911fc4002c77d303",
+        "name": "Krabo Beach",
+        "contact": {},
+        "location": {
+          "address": "Θέσπιδος, Όρμος Ζώσκα",
+          "lat": 37.814047601718684,
+          "lng": 23.766531484442165,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.814047601718684,
+              "lng": 23.766531484442165
+            }
+          ],
+          "distance": 26713,
+          "postalCode": "166 71",
+          "cc": "GR",
+          "neighborhood": "Kavouri",
+          "city": "Βουλιαγμένη",
+          "country": "Greece",
+          "formattedAddress": [
+            "Θέσπιδος, Όρμος Ζώσκα",
+            "166 71 Βουλιαγμένη",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e2941735",
+            "name": "Beach",
+            "pluralName": "Beaches",
+            "shortName": "Beach",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/beach_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4adcdadff964a520195821e3",
+        "name": "Balthazar",
+        "contact": {},
+        "location": {
+          "address": "Τσόχα 27",
+          "lat": 37.98575773510884,
+          "lng": 23.75598295337682,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.98575773510884,
+              "lng": 23.75598295337682
+            }
+          ],
+          "distance": 7677,
+          "postalCode": "115 21",
+          "cc": "GR",
+          "city": "Athens",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Τσόχα 27",
+            "115 21 Athens, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c4941735",
+            "name": "Restaurant",
+            "pluralName": "Restaurants",
+            "shortName": "Restaurant",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "venuePage": {
+          "id": "480759149"
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4e997fd70aaf0a73a1dde5a4",
+        "name": "IKEA Restaurant (Εστιατόριο IKEA)",
+        "contact": {},
+        "location": {
+          "address": "Διεθνής Αερολιμένας Αθηνών \u201cΕλευθέριος Βενιζέλος\u201d",
+          "lat": 37.92502657301333,
+          "lng": 23.93069795584215,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 37.92502657301333,
+              "lng": 23.93069795584215
+            }
+          ],
+          "distance": 20218,
+          "postalCode": "190 19",
+          "cc": "GR",
+          "city": "Spata",
+          "state": "Attica",
+          "country": "Greece",
+          "formattedAddress": [
+            "Διεθνής Αερολιμένας Αθηνών \u201cΕλευθέριος Βενιζέλος\u201d",
+            "190 19 Spata, Attica",
+            "Greece"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c6941735",
+            "name": "Scandinavian Restaurant",
+            "pluralName": "Scandinavian Restaurants",
+            "shortName": "Scandinavian",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/scandinavian_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 0,
+          "checkinsCount": 0,
+          "visitsCount": 0
+        },
+        "beenHere": {
+          "count": 0,
+          "lastCheckinExpiredAt": 0,
+          "marked": false,
+          "unconfirmedCount": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1593335345",
+        "venueChains": [],
+        "hasPerk": false
+      }
+    ],
+    "confident": false
+  }
+}
